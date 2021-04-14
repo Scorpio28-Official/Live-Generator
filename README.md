@@ -8,23 +8,23 @@ Unate a nuestra gran comunidad Informatic in Termux.
 
 __🦂 INSTALACION: 🦂__
 
-apt update && apt upgrade -y
+* apt update && apt upgrade -y
 
-pkg install python -y
+* pkg install python -y
 
-pkg install git -y
+* pkg install git -y
 
-git clone https://github.com/Scorpio28-Official/Live-Generator
+* git clone https://github.com/Scorpio28-Official/Live-Generator
 
-cd Live-Generator
+* cd Live-Generator
 
-ls
+* ls
 
-chmod 777 Live-Generator.py
+* chmod 777 Live-Generator.py
 
-ls
+* ls
 
-python Live-Generator.py
+* python Live-Generator.py
 
 __Una vez en la interfax aparece un ejemplo de ejecución bastante sencillo.__
 
